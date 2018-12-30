@@ -40,7 +40,7 @@ The standard Javascript errors rethrown are:
 This library was inspired by [bouce](https://www.npmjs.com/package/bounce). However, 
 `bounce` has additional dependencies on [hoek](https://www.npmjs.com/package/hoek) 
 and [boom](https://www.npmjs.com/package/boom) which are related to node's 
-[hapi](https://www.npmjs.com/package/hapi) which may contain code mean for not and 
+[hapi](https://www.npmjs.com/package/hapi) which may contain code mean for node and 
 not the browser.
 
 Rebote aims to be free of platform specific dependencies and usable in both node and 
