@@ -4,6 +4,14 @@ _Rebote_ is a simple that checks whether an error is one of the standard
 Javascript errors and rethrows it. _Rebote_ is the spanish word for 
 [_bounce_](#inspiration).
 
+```bash
+npm install rebote --save
+
+# OR:
+
+yarn add rebote
+```
+
 Example usage:
 
 ```javascript
